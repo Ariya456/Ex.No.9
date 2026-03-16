@@ -45,9 +45,10 @@ Tools/LLMs for Video Generation:
 
 # Deliverables:
 1.	The Original Video: Provided Video for reference.
-2.	The Final Generated Video: The Video created using your refined prompt.
-3.	Prompts Used: The text prompts created during the experiment.
-4.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
+(https://github.com/Ariya456/Ex.No.9/blob/43c62ee98cf615748af2080cb9827cddabb233b0/Firefly%20%E2%80%9CGenerate%20a%20short%20video%20of%20a%20waterfall%20flowing%20down%20a%20rocky%20cliff%20in%20a%20forest%20during%20sunset..mp4)
+3.	The Final Generated Video: The Video created using your refined prompt.
+4.	Prompts Used: The text prompts created during the experiment.
+5.	Comparison Report: A report highlighting the differences and similarities between the original and generated Videos, along with any adjustments made to the prompt.
 
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-Video generation models can be effective in reproducing an Video closely. The quality of the generated Video depends on how accurately the prompt describes the Video's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate Videos that closely match real-world visuals, which is useful for creative and practical applications.
